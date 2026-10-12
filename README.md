@@ -5,7 +5,7 @@ Jewelry Robbery For QBOX
 
 
 ## Dependencies
-- [aicore](https://github.com/0error-scripts/aicore)
+- [aicore](https://github.com/aicore-fivem/aicore)
 - [ox_target](https://github.com/communityox/ox_target)
 - [ox_lib](https://github.com/communityox/ox_lib)
 - [ultra-voltlab](https://github.com/ultrahacx/ultra-voltlab)
